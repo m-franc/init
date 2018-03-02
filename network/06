@@ -1,0 +1,1 @@
+Dans /etc/resolv.conf (fichier permettant de determiner quel serveur DNS on utilise pour resoudre un nom de domaine) on trouve le nom de domaine de 42 (42.fr) ainsi que les les donnees du serveur (DNS), notamment son IP.
