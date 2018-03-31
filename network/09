@@ -1,10 +1,1 @@
-Server:		10.51.1.42
-Address:	10.51.1.42#53
-
-Name:	42.fr
-Address: 10.52.1.76
-Name:	42.fr
-Address: 10.52.1.11
-Name:	42.fr
-Address: 10.52.1.12
-
+nserver:     ns1.42.fr [62.210.35.129 62.210.35.131]
