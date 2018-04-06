@@ -1,0 +1,1 @@
+Quand on essaie traceroute avec plusieurs noms de domaine on repere une certaine machine : nat-1 (Network Adress Translation) avec pour IP 10.60.1.11. Cette machine appele le NAT fais le lien entre le poste et l'exterieur pour n'importe quel requete.
