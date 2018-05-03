@@ -1,0 +1,1 @@
+Dans les entres locales DNS, il suffit de renseigner l'adresse 46.19.122.85 et d'indiquer intra.42.fr. Ainsi lorsque l'url sera appele, le fichiers host sera consulter et intra.42.fr sera renvoye par le DNS renseigne dans celui ci
