@@ -1,1 +1,3 @@
 service sshd status
+service sshd restart
+service sshd status
